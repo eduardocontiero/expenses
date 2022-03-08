@@ -1,1 +1,1 @@
-Aplicativo desenvolvido seguindo as aulas do Leonardo Leitão no Curso de Flutter
+Aplicativo de despesas pessoais desenvolvido com Flutter
